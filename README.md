@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vivek-hub-567
-- 👀 I’m interested in ... data analyst and cyber security 
+- 👀 I’m interested in ... data science and AIML
 - 🌱 I’m currently learning ... Ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
